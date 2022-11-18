@@ -1,4 +1,4 @@
-# This is a web page layout long used as one of the holy grails webpages structures from the birth of modern web til' nowadays.
+# This is a web page layout long used as one of the holy grails webpages structures since from the birth of modern web til' nowadays.
 
 # Structure:
     -header
